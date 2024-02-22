@@ -168,7 +168,7 @@
       (net 22 "EPD_RESE") (pinfunction "1") (pintype "passive") (tstamp 5e997f65-1dae-4ddb-aa9e-a108b04741ea))
     (pad "2" smd rect (at 1 0 90) (size 0.95 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 47234046-811b-4df1-9aa1-b703be749871))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\RCWL0805R470JNEA.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/RCWL0805R470JNEA.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -222,7 +222,7 @@
       (net 10 "EPD_VGH") (pinfunction "1") (pintype "passive") (tstamp 7ba73144-89f0-4d24-a140-fc75c31bb356))
     (pad "2" smd rect (at 0.81 0 90) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp b4713647-eb59-4964-9f70-36baf2ed950c))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -276,7 +276,7 @@
       (net 32 "Net-(C8-Pad1)") (pinfunction "1") (pintype "passive") (tstamp de376b81-61f3-4fed-8570-69aaede8ab4f))
     (pad "2" smd rect (at 0.81 0 90) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 5966789e-4bc5-48ed-bdba-f82dfe8f28a7))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -330,7 +330,7 @@
       (net 31 "Net-(C2-Pad1)") (pinfunction "1") (pintype "passive") (tstamp 1a9e6b96-08d7-4a52-a512-cd597fc71792))
     (pad "2" smd rect (at 0.81 0 90) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 720ef3b7-7380-4e38-b7eb-f8b2d421395c))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -376,7 +376,7 @@
       (net 5 "EN") (pinfunction "K") (pintype "passive") (tstamp d7afea19-b499-4541-8196-ba9e1ef9869c))
     (pad "2" smd rect (at -1.7 0 180) (size 0.8 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "A") (pintype "passive") (tstamp 0a52a652-974f-4f9a-886c-bd47990562c5))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\B3U-1000P.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/B3U-1000P.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -430,7 +430,7 @@
       (net 3 "+3.3V") (pinfunction "1") (pintype "passive") (tstamp fa24d210-7bf3-4fa9-b774-0a449ad5b5db))
     (pad "2" smd rect (at 0.81 0 270) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 896483d0-2a2f-4ba7-80b2-b950acfbaab9))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -484,7 +484,7 @@
       (net 3 "+3.3V") (pinfunction "1") (pintype "passive") (tstamp 2e79e463-2d6d-4054-89f1-5d509232ae5b))
     (pad "2" smd rect (at 0.95 0 90) (size 0.95 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 19 "IO2") (pinfunction "2") (pintype "passive") (tstamp 0d33f6de-ad39-464b-9131-1d2e21f45fd3))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\AC0805FR-7W60R4L.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/AC0805FR-7W60R4L.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -538,7 +538,7 @@
       (net 3 "+3.3V") (pinfunction "1") (pintype "passive") (tstamp 205e0fcc-2185-4bd6-b146-015095cc6abc))
     (pad "2" smd rect (at 0.9 0 270) (size 1.15 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 79606ebd-9c2a-423f-bd4b-f1ce12b6698a))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X104J5RACTU.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X104J5RACTU.stp"
       (offset (xyz -1.149999959 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -592,7 +592,7 @@
       (net 37 "Net-(LED1-K)") (pinfunction "K") (pintype "passive") (tstamp 2780c3c4-790f-487a-b542-5edc975d5426))
     (pad "2" smd rect (at 0.8 0 180) (size 0.8 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 36 "LED") (pinfunction "A") (pintype "passive") (tstamp a0919ff1-9da9-4edc-8505-5e81ef5e2947))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\598-2000-107F.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/598-2000-107F.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -646,7 +646,7 @@
       (net 33 "Net-(C11-Pad1)") (pinfunction "1") (pintype "passive") (tstamp 0c2510e6-10dd-426b-a86a-3ad7181552ab))
     (pad "2" smd rect (at 0.81 0 90) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 90b1af24-3502-475b-b1ae-37d04032a520))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -700,7 +700,7 @@
       (net 6 "Net-(D1-K)") (pinfunction "1") (pintype "passive") (tstamp 510670c4-ee6a-42d2-be57-815eb20c3b65))
     (pad "2" smd rect (at 0.81 0) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 7 "Net-(D3-A)") (pinfunction "2") (pintype "passive") (tstamp 83c9a93e-1c39-45d0-9593-9168acc7c356))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -754,7 +754,7 @@
       (net 2 "Net-(C3-Pad1)") (pinfunction "1") (pintype "passive") (tstamp d7bb6f94-7505-4712-be8f-67b0a87c25f3))
     (pad "2" smd rect (at 0.81 0 90) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp a188f211-e54c-4447-94c9-5f93fd0ec097))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -808,7 +808,7 @@
       (net 9 "EPD_VGL") (pinfunction "1") (pintype "passive") (tstamp db10667d-d2d9-484a-8e25-15a387ef786c))
     (pad "2" smd rect (at 0.81 0 270) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 60fa3b53-9eb0-4467-9a18-6d885bbd478b))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -862,7 +862,7 @@
       (net 30 "Net-(C1-Pad1)") (pinfunction "1") (pintype "passive") (tstamp afeada64-ae25-4f4a-b385-b2a59e9b46e3))
     (pad "2" smd rect (at 0.81 0 90) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 1af5d04f-c9b9-4fa4-9a2b-1f0263ded49d))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -911,7 +911,7 @@
       (net 29 "unconnected-(U1-NC-Pad3)") (pinfunction "NC") (pintype "no_connect") (tstamp d1199281-d391-4384-a0f4-c2351535f9af))
     (pad "4" smd rect (at 7 5.225 90) (size 1.7 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "GND") (pintype "passive") (tstamp 11c54106-40ff-4fb6-8b7c-4abf4f3d0eef))
-    (model "C:/Users/Simon/Documents/Workspace/GitHub/Plaenkler/Egg_LDO_1000/Egg_LDO_1000.step"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/Egg_LDO_1000.step"
       (offset (xyz -150 101.66 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -957,7 +957,7 @@
       (net 11 "BTN") (pinfunction "K") (pintype "passive") (tstamp 096251c3-906d-4157-9e8c-69130dfebde1))
     (pad "2" smd rect (at -1.7 0 180) (size 0.8 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "A") (pintype "passive") (tstamp ecbcc2ac-253b-43df-81af-74a95a94c398))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\B3U-1000P.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/B3U-1000P.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1063,7 +1063,7 @@
       (net 1 "GND") (pinfunction "MP3") (pintype "passive") (tstamp 6b229903-6883-4d58-a7de-ea12ef47bd9c))
     (pad "MP4" smd rect (at 8.85 -1.35) (size 1.1 2.2) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "MP4") (pintype "passive") (tstamp 0255bf46-1b4f-4dac-aadb-dd844d2dbe6c))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\52435-2471.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/52435-2471.stp"
       (offset (xyz 0 2.400000059 0.04999999999))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1117,7 +1117,7 @@
       (net 3 "+3.3V") (pinfunction "1") (pintype "passive") (tstamp 529fdddd-ac8a-43bb-91bd-8f55bb8bfe47))
     (pad "2" smd rect (at 0.95 0 90) (size 0.95 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 5 "EN") (pinfunction "2") (pintype "passive") (tstamp c1c5101e-8e7b-441f-ac3b-38a4fc7d1d9a))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\AC0805FR-7W60R4L.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/AC0805FR-7W60R4L.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1171,7 +1171,7 @@
       (net 4 "Net-(C10-Pad1)") (pinfunction "1") (pintype "passive") (tstamp 0358eada-800d-466e-84f5-c4399b2a582a))
     (pad "2" smd rect (at 0.81 0 90) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 477ac9db-85cc-4f56-ad17-76986f71a9ef))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1225,7 +1225,7 @@
       (net 3 "+3.3V") (pinfunction "1") (pintype "passive") (tstamp 47cf5b7c-b2f0-49df-848c-00a4b09e2dce))
     (pad "2" smd rect (at 0.95 0 270) (size 0.95 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 16 "IO8") (pinfunction "2") (pintype "passive") (tstamp bfeb1c17-e7d8-4a68-aab1-c4b117ed8aa1))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\AC0805FR-7W60R4L.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/AC0805FR-7W60R4L.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1279,7 +1279,7 @@
       (net 37 "Net-(LED1-K)") (pinfunction "1") (pintype "passive") (tstamp 296f7f04-3493-4dcb-a84b-fb541779b3e0))
     (pad "2" smd rect (at 0.95 0 180) (size 0.95 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp e881026d-f7b7-4fc2-a713-a845bf812997))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\AC0805FR-7W60R4L.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/AC0805FR-7W60R4L.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1333,7 +1333,7 @@
       (net 3 "+3.3V") (pinfunction "1") (pintype "passive") (tstamp cc17599c-3902-4d30-9c75-6a66ba3818e9))
     (pad "2" smd rect (at 0.81 0 270) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 2698ea82-9abb-47c8-9f2a-bec8140c5a00))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1389,7 +1389,7 @@
       (net 23 "EPD_GDR") (pinfunction "1") (pintype "passive") (tstamp 625079a1-c277-45bf-ac25-ba5d7abeb3b7))
     (pad "2" smd rect (at 0.95 0 90) (size 0.95 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp ae0e4a85-2650-4d43-a0a1-b7d3593ef3ef))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\AC0805FR-7W60R4L.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/AC0805FR-7W60R4L.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1423,8 +1423,6 @@
         (effects (font (size 1.27 1.27) (thickness 0.254)))
       (tstamp 4adbbd06-484a-4262-b55a-e10d64d28b78)
     )
-    (fp_circle (center -1.75 0) (end -1.75 0.05)
-      (stroke (width 0.2) (type solid)) (fill none) (layer "F.SilkS") (tstamp dcd66a57-e0e9-48c8-b5be-b497ccd60f47))
     (fp_line (start -2.275 -1.625) (end 2.275 -1.625)
       (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp 9f149342-57b6-47d4-950c-6c13487662ea))
     (fp_line (start -2.275 1.625) (end -2.275 -1.625)
@@ -1445,7 +1443,7 @@
       (net 11 "BTN") (pinfunction "1") (pintype "passive") (tstamp 16a5e192-691f-401b-bf8d-e9f8666821c6))
     (pad "2" smd rect (at 0.9 0 180) (size 1.15 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 1a50b28f-650f-4c25-8a5a-8cb8651a5370))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X104J5RACTU.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X104J5RACTU.stp"
       (offset (xyz -1.149999959 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1499,7 +1497,7 @@
       (net 5 "EN") (pinfunction "1") (pintype "passive") (tstamp 4b48fc22-faf5-4f30-a103-89d746dd5152))
     (pad "2" smd rect (at 0.9 0) (size 1.15 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 0d909ca1-ab8a-470d-85ba-b9fef75bd11c))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X104J5RACTU.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X104J5RACTU.stp"
       (offset (xyz -1.149999959 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1555,7 +1553,7 @@
       (net 6 "Net-(D1-K)") (pinfunction "K") (pintype "passive") (tstamp db6cae48-935f-4bf3-9973-1cdb94f08215))
     (pad "2" smd rect (at 1.75 0) (size 0.8 1.15) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 9 "EPD_VGL") (pinfunction "A") (pintype "passive") (tstamp c9e3fca1-7544-4689-be68-eaad5d1b6eb4))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\MBR0530T1G.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/MBR0530T1G.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1611,7 +1609,7 @@
       (net 10 "EPD_VGH") (pinfunction "K") (pintype "passive") (tstamp 214d61e7-3eec-4a2e-a0f1-7871641937f4))
     (pad "2" smd rect (at 1.75 0 180) (size 0.8 1.15) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 7 "Net-(D3-A)") (pinfunction "A") (pintype "passive") (tstamp 5a220ece-d31d-4b30-bcb0-0ba4c851398e))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\MBR0530T1G.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/MBR0530T1G.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1667,7 +1665,7 @@
       (net 1 "GND") (pinfunction "K") (pintype "passive") (tstamp 15476a64-24d7-4fa4-9238-b3e68748d986))
     (pad "2" smd rect (at 1.75 0 180) (size 0.8 1.15) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 6 "Net-(D1-K)") (pinfunction "A") (pintype "passive") (tstamp e9b3e2d8-e7a9-4e42-8257-4d5330a91322))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\MBR0530T1G.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/MBR0530T1G.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1721,7 +1719,7 @@
       (net 3 "+3.3V") (pinfunction "1") (pintype "passive") (tstamp 2dbb1d48-917e-4e5e-b401-2ee25dcbc644))
     (pad "2" smd rect (at 0.81 0 270) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp ad014126-5bb7-4897-bc81-51d472a6f987))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1775,7 +1773,7 @@
       (net 5 "EN") (pinfunction "1") (pintype "passive") (tstamp 60bbfa0c-5ce8-4133-8f1c-c2f713109318))
     (pad "2" smd rect (at 0.81 0 270) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp e6e45c2e-cb86-4d33-82df-9e7f891ccbf6))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1833,7 +1831,7 @@
       (net 34 "USB_DP") (pinfunction "Pin_4") (pintype "passive") (tstamp c8241cc4-9589-410f-bdcd-0d5a4b4dce91))
     (pad "5" thru_hole oval (at 0 10.16 180) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask")
       (net 35 "USB_DM") (pinfunction "Pin_5") (pintype "passive") (tstamp 8851985e-2c29-4bbf-a9d5-347625c5a538))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x05_P2.54mm_Vertical.wrl"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/PinHeader_1x05_P2.54mm_Vertical.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1879,7 +1877,7 @@
       (net 8 "IO9") (pinfunction "K") (pintype "passive") (tstamp 2ec5a5e8-2daf-4150-bd25-29f7c855498c))
     (pad "2" smd rect (at -1.7 0) (size 0.8 1.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "A") (pintype "passive") (tstamp 8f8774b0-b6b4-4dad-b43c-a47115708202))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\B3U-1000P.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/B3U-1000P.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1933,7 +1931,7 @@
       (net 24 "Net-(C5-Pad1)") (pinfunction "1") (pintype "passive") (tstamp 3657a807-fa03-4052-8a63-753191997cbb))
     (pad "2" smd rect (at 0.81 0 90) (size 1.14 1.57) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp d8a48f45-1ce5-4ad4-959c-2f54d85c68b9))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X105K5RACAUTO.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X105K5RACAUTO.stp"
       (offset (xyz -1.16999994 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -1979,7 +1977,7 @@
       (net 3 "+3.3V") (pinfunction "1") (pintype "passive") (tstamp 3b3b71ae-b78c-46ae-9ec4-09355e30fa87))
     (pad "2" smd rect (at 0 -1.1 90) (size 1 2.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 7 "Net-(D3-A)") (pinfunction "2") (pintype "passive") (tstamp 86be1177-86bf-4b7d-8182-c6c3b6e1cc92))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\SRN3015-100M.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/SRN3015-100M.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2085,7 +2083,7 @@
       (net 1 "GND") (pinfunction "GND_9") (pintype "passive") (tstamp e291b750-cd1a-418c-a2f5-f35f9e8e92cb))
     (pad "27" smd rect (at 11.56 -5.6 90) (size 0.7 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "GND_10") (pintype "passive") (tstamp 47d44883-a032-44d7-a7dc-0bab31e402f2))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\ESP32-C3-WROOM-02-H4.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/ESP32-C3-WROOM-02-H4.stp"
       (offset (xyz 9.499999857 9.99999985 0.4))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2139,7 +2137,7 @@
       (net 8 "IO9") (pinfunction "1") (pintype "passive") (tstamp 572ed20b-3ed7-4885-9c71-3d0771439fbd))
     (pad "2" smd rect (at 0.9 0 180) (size 1.15 1.45) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 1 "GND") (pinfunction "2") (pintype "passive") (tstamp 375179b0-cf67-4f2c-9cbe-7d2b32d8576f))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\C0805X104J5RACTU.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/C0805X104J5RACTU.stp"
       (offset (xyz -1.149999959 -0.7799999597 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2197,7 +2195,7 @@
       (net 22 "EPD_RESE") (pinfunction "S") (pintype "passive") (tstamp 6463afea-2878-46cd-82b7-611571f5c59b))
     (pad "3" smd rect (at 1.05 0) (size 0.5 1.05) (layers "F.Cu" "F.Paste" "F.Mask")
       (net 7 "Net-(D3-A)") (pinfunction "D") (pintype "passive") (tstamp 5f676b1f-5da4-47cb-a325-adfd30f1a1fd))
-    (model "C:\\Users\\Simon\\Documents\\Workspace\\Locale\\LibLoader\\SamacSys_Parts.3dshapes\\Si1308EDL-T1-GE3.stp"
+    (model "${KIPRJMOD}/Gulu_ESP32-C3_ePaper_3D/Si1308EDL-T1-GE3.stp"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))

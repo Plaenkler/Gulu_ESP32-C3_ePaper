@@ -2329,7 +2329,7 @@
     (effects (font (size 2 2)) (justify left bottom))
     (uuid f5e40765-4570-4ce7-b38f-b8491b29d286)
   )
-  (text "Resisitors for buttons?" (at 162.56 68.58 0)
+  (text "Resisitor?" (at 212.09 69.85 0)
     (effects (font (size 2 2) (thickness 0.4) bold (color 249 0 0 1)) (justify left bottom))
     (uuid f60c72df-056d-4a68-a0af-de05ba48e04b)
   )
