@@ -249,6 +249,19 @@
 				)
 			)
 		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "243f2ae6-a63e-4e5e-a48f-58d29fbd6fe6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/cd777cc9-5533-40d6-a652-cd7075bb08d2")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -482,6 +495,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "de798f1c-d413-4ea9-85d8-989527908bd9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "ESR03EZPF1002"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5d90790a-c64c-419e-bf5f-83e98a642aec")
 			(effects
 				(font
 					(size 1 1)
@@ -729,6 +755,19 @@
 				)
 			)
 		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e3087410-3f61-4c98-a734-59e28915aa20")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3dc60c92-5a6b-4276-8306-472095c44945")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -969,6 +1008,19 @@
 				)
 			)
 		)
+		(property "mpn" "B3U-1000P"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a21e741e-2919-4f67-b90e-fa4db4b6418e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/640fa0df-999e-4dd8-a73d-80c65e5715b6")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -1162,6 +1214,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6bd05bfa-ec02-4a51-bcfc-099f6a45c3fb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aa9a80f0-ea1b-4bee-ba66-c934bc089ae2")
 			(effects
 				(font
 					(size 1 1)
@@ -1402,6 +1467,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bce19c36-5f2f-4692-ab91-cb2a11dec830")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "598-2000-107F"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b5d05492-cc66-4eef-a617-c7beed6b092f")
 			(effects
 				(font
 					(size 1 1)
@@ -1828,6 +1906,19 @@
 				)
 			)
 		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c78de5de-5853-4327-9a2a-912f25787d08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/0ee116b9-ec0a-470c-9a09-0b42d4d97cd2")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -2061,6 +2152,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a33785f9-12d4-41d8-8100-6e53e01c132f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1de5f292-b974-47e5-9cc4-e3148e383ef4")
 			(effects
 				(font
 					(size 1 1)
@@ -2308,6 +2412,19 @@
 				)
 			)
 		)
+		(property "mpn" "ESR03EZPF1002"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8599a98f-406b-4af8-b353-97850a76ee9b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/61bc3ab6-8d7f-4957-a694-aeb456abc326")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -2541,6 +2658,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "528f58b0-b6a3-4f07-b672-7ef6e5cdcca7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "52435-2471"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6f572214-efb7-4409-9f27-e8e952f235a0")
 			(effects
 				(font
 					(size 1 1)
@@ -3022,6 +3152,19 @@
 				)
 			)
 		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c2fee447-70f6-4141-9c68-264d6226167b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/a0a2b0a2-ad26-4e6b-92fd-a47668a058ad")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -3255,6 +3398,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "238dd7d7-6d57-4e12-a873-35d33c644f19")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "ESR03EZPF1002"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3d249401-eac3-4e62-9309-72d1d4dfc464")
 			(effects
 				(font
 					(size 1 1)
@@ -3502,6 +3658,19 @@
 				)
 			)
 		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ba09c50-fa19-45c5-aca2-448ea29f7592")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/14c85047-302f-4bc3-872b-af56b89c99fa")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -3742,6 +3911,19 @@
 				)
 			)
 		)
+		(property "mpn" "RCWE0603R470FKEA"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "160b42de-1714-4e4c-af27-7c35b98a1288")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/c6851c02-79e3-4810-ba4c-01a32f72bdf1")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -3895,6 +4077,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d525e838-b600-4a29-8679-a16bf137262c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e9fa6270-1e17-48e6-97d8-74eb8beb7dd8")
 			(effects
 				(font
 					(size 1 1)
@@ -4142,6 +4337,19 @@
 				)
 			)
 		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "05271224-b1c6-420e-831d-7923763d8392")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e0b2f8c2-1662-4738-9ee1-8cc6375f09cd")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -4375,6 +4583,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "84f5bbab-ebc3-4263-9fc5-9d56b8e6fe60")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "AC0805FR-7W60R4L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "718c1f10-97b6-43de-b9e0-dc2750d65538")
 			(effects
 				(font
 					(size 1 1)
@@ -4622,6 +4843,19 @@
 				)
 			)
 		)
+		(property "mpn" "KAM15AR71H104KM"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b7e03f4c-ade5-4915-b5c8-734b4810ccd1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/94a69048-439b-4196-abbc-2653e9d2012c")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -4855,6 +5089,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bad9843f-a694-400a-af6d-893f33ddf90c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47cdd4f3-27ed-4411-8d04-d5301d834864")
 			(effects
 				(font
 					(size 1 1)
@@ -5102,6 +5349,19 @@
 				)
 			)
 		)
+		(property "mpn" "GRM188R6YA475KE15D"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c1967419-c0e4-4cfa-b76e-508692e64cb6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/6f0fb273-2dc0-4e1f-b741-af717da14d57")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -5335,6 +5595,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a6c7da05-c5de-4077-be97-f15e72310186")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "MBR0530T1G"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3bf8ab54-565b-49a0-80ba-3254a9138974")
 			(effects
 				(font
 					(size 1 1)
@@ -5592,6 +5865,19 @@
 				)
 			)
 		)
+		(property "mpn" "MBR0530T1G"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "742462da-19a3-40dc-851f-b69f283be8ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/78ac6b7e-a613-4c66-bdfe-32fa85587721")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -5835,6 +6121,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f890e860-6975-415f-9524-aec922f1ed98")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "MBR0530T1G"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5899479d-c8f9-4c00-9ddc-13c81689d9ff")
 			(effects
 				(font
 					(size 1 1)
@@ -6092,6 +6391,19 @@
 				)
 			)
 		)
+		(property "mpn" "KAM15AR71H104KM"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d07c0c5-74e8-4d5a-8a03-7e76fb27bfe2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/7c54b460-bcc8-43f2-94b0-949f0ce67fdf")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -6332,6 +6644,19 @@
 				)
 			)
 		)
+		(property "mpn" "KAM15AR71H104KM"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "497beff2-b751-430d-843f-0933257fdb5d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/caa8246f-2c9b-4bb1-866c-bef0da564511")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -6565,6 +6890,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3fb0cb18-5c7d-44fd-9aba-a5415d88c7c8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "CGA3E1X7R1V105K080AC"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b37b8336-d766-46cb-b315-20e80a8c2228")
 			(effects
 				(font
 					(size 1 1)
@@ -7346,6 +7684,19 @@
 				)
 			)
 		)
+		(property "mpn" "B3U-1000P"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ba1c0015-5e81-496a-a985-5d3f0333eb79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/8f4e9525-1b1a-4064-a6cb-29e3d17e0b8f")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -7546,6 +7897,19 @@
 				)
 			)
 		)
+		(property "mpn" "SRN3015-100M"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a2dad6bd-cf29-438a-a65a-a5944f5a8ccb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/51306e71-ca37-4920-906c-367f3190702a")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -7739,6 +8103,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "aab4911f-7c98-4393-9349-9fb614e9708e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "ESP32-C3-WROOM-02-H4"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b218e8eb-9aee-4339-9d2c-35a0b861c8d4")
 			(effects
 				(font
 					(size 1 1)
@@ -8211,6 +8588,19 @@
 				)
 			)
 		)
+		(property "mpn" "Si1308EDL-T1-GE3"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5db5788c-e981-46c5-82d8-84cc9263e62f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/4fd64e81-d106-4826-8e69-59d841b1c90b")
 		(sheetname "Stammblatt")
 		(sheetfile "Gulu_ESP32-C3_ePaper.kicad_sch")
@@ -8463,6 +8853,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "75e1367e-c857-4ea7-8900-a5761e3ced55")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "mpn" "ESR03EZPF1002"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e47a8de1-210f-4652-a98b-39d09f766b03")
 			(effects
 				(font
 					(size 1 1)
