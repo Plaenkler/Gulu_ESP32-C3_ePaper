@@ -40,3 +40,7 @@ archive_3d_models.log
 # Locking files
 *.lck
 
+# PIO and VSCode folders
+.pio
+.vscode
+
