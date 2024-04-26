@@ -1,9 +1,4 @@
-#include <GxEPD2_BW.h>
-#include "800x480.h"
-
-GxEPD2_BW<GxEPD2_750_T7, GxEPD2_750_T7::HEIGHT> display(
-  GxEPD2_750_T7(6, 7, 10, 3)
-);
+#include "750_T7.h"
 
 void setup() {
   pinMode(0, OUTPUT);
