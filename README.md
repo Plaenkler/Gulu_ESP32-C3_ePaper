@@ -33,7 +33,22 @@ Coming soon...
 
 ## Arduino compatibility
 
-Coming soon...
+During the design phase of the Gulu, a custom set of IO pins was used for the 4-wire SPI connection.
+In order for firmware based on the Arduino framework to work on the Gulu, adjustments must be made to the pin definitions.
+
+```cpp
+// Default esp32c3>pins_arduino.h
+static const uint8_t SS    = 7;
+static const uint8_t MOSI  = 6;
+static const uint8_t MISO  = 5;
+static const uint8_t SCK   = 4;
+
+// Modified esp32c3>pins_arduino.h
+static const uint8_t SS    = 7; // EPD_DC
+static const uint8_t MOSI  = 4; // EPD_DIN
+static const uint8_t MISO  = 6; // EPD_CS
+static const uint8_t SCK   = 5; // EPD_SCK
+```
 
 ## Firmware example
 
