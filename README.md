@@ -1,5 +1,7 @@
 # Gulu ESP32-C3 ePaper Devboard
 
+> No AI was involved in this project.
+
 <table>
   <tr>
     <td><img src="https://github.com/Plaenkler/Gulu_ESP32-C3_ePaper/assets/60503970/1c677425-d5b5-43d3-83c9-e7d38f8b7d85" alt="Gulu ESP32-C3 ePaper Devboard Front"></td>
