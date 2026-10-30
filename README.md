@@ -1,6 +1,6 @@
 # Gulu ESP32-C3 ePaper Devboard
 
-> No AI was involved in this project.
+> No AI was involved in this project. Whether that is a mark of quality or the opposite is up to you.
 
 <table>
   <tr>
